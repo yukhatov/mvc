@@ -1,0 +1,26 @@
+[26-Sep-2016 06:37:52 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'enableenergy'@'localhost' (using password: YES) in /var/www/amazon/mvc/application/core/model.php on line 25
+[26-Sep-2016 06:39:11 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[26-Sep-2016 06:39:14 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[28-Sep-2016 10:53:12 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[28-Sep-2016 11:33:36 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 03:27:27 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 03:28:03 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 03:28:06 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 08:06:18 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 08:14:50 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 08:14:55 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 08:15:53 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 09:28:02 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 09:29:00 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 09:51:31 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[29-Sep-2016 11:06:39 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[30-Sep-2016 03:32:33 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[03-Oct-2016 11:12:52 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[04-Oct-2016 03:12:03 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[04-Oct-2016 08:31:57 America/New_York] PHP Notice:  Undefined index: admin in /var/www/amazon/mvc/application/controllers/controller_admin.php on line 16
+[04-Oct-2016 08:49:44 America/New_York] PHP Notice:  Undefined index: filename in /var/www/amazon/mvc/application/controllers/controller_feedback.php on line 29
+[04-Oct-2016 08:49:44 America/New_York] PHP Notice:  Undefined index: filename in /var/www/amazon/mvc/application/controllers/controller_feedback.php on line 34
+[04-Oct-2016 08:50:05 America/New_York] PHP Warning:  move_uploaded_file(/path/to/file/8EkJsFKSJ5g.jpg): failed to open stream: No such file or directory in /var/www/amazon/mvc/application/controllers/controller_feedback.php on line 36
+[04-Oct-2016 08:50:05 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpryNHUI' to '/path/to/file/8EkJsFKSJ5g.jpg' in /var/www/amazon/mvc/application/controllers/controller_feedback.php on line 36
+[04-Oct-2016 08:51:34 America/New_York] PHP Warning:  move_uploaded_file(/images/8EkJsFKSJ5g.jpg): failed to open stream: No such file or directory in /var/www/amazon/mvc/application/controllers/controller_feedback.php on line 36
+[04-Oct-2016 08:51:34 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbGODUp' to '/images/8EkJsFKSJ5g.jpg' in /var/www/amazon/mvc/application/controllers/controller_feedback.php on line 36

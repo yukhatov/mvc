@@ -1,0 +1,33 @@
+<?php
+
+class Model
+{
+	
+	public $db;
+
+	function __construct()
+	{
+		$this->db = $this->getConnection();
+	}
+
+	public function get_data($params)
+	{
+		// todo
+	}
+
+	protected function getConnection()
+	{
+		$servername = "localhost";
+		$username = "pcstudio_amazon";
+		$password = "JZEFAu9u92VPPmJY";
+		$dbname = "mvc";
+
+		$connection = new mysqli($servername, $username, $password, $dbname);
+
+		if ($connection->connect_error) {
+		    die("DB Connection failed: " . $connection->connect_error);
+		}
+
+		return $connection;
+	}
+}
